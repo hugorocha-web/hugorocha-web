@@ -2,11 +2,17 @@
 
 <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamE4NGxsa2d5MzI0aTNpYWdvdjRwNnEwbGwyM2MzMHY1a3A3cnI5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CTX0ivSQbI78A/giphy.gif" />
 
-# Hello World! 👋
+<h1>Hi there! 👋</h1>
 
-### I'm Hugo Roxs
+<h3>💻 Information Technology Student | Developer in Progress</h3>
 
-**💻 Information Technology Student | 🚀 Developer in Progress**
+<p>
+Building projects, learning every day and turning ideas into code.
+</p>
+
+<a href="https://github.com/hugorocha-web">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
@@ -14,41 +20,47 @@
 
 ## 👨‍💻 About Me
 
-🎓 Technical student in **Information Technology at IFPI – Campus Picos**
+🎓 Information Technology student at **IFPI – Campus Picos**
 💻 Currently focused on **Web Development and Programming**
-🚀 Learning **JavaScript, Python, HTML & CSS**
+🚀 Learning **JavaScript, Python, HTML and CSS**
 🤖 Interested in **Artificial Intelligence, Automation and Technology**
-📚 Always building projects to turn knowledge into practice
+🛠️ I enjoy learning by building real projects and solving problems with code.
 
 ---
 
-## 🧠 Currently Learning
+## 🚀 Currently Learning
 
 <div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" />
 <img width="15" />
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" />
 <img width="15" />
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" />
 <img width="15" />
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" />
 <img width="15" />
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" />
 <img width="15" />
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" />
 
 </div>
 
 ---
 
-## 🚀 What I'm Working On
+## 🧩 What I'm Working On
 
 * 🌐 Web development with **HTML, CSS and JavaScript**
-* ⚡ Asynchronous JavaScript, `Fetch`, `Promises` and APIs
+* ⚡ Asynchronous JavaScript, **Promises, Async/Await and Fetch**
+* 🔌 Consuming APIs and working with external data
 * 🐍 Python projects and automation
-* 🔧 Building practical projects to improve my programming skills
-* 📈 Developing my portfolio and becoming a better developer
+* 🧠 Improving my programming logic
+* 🚀 Building projects for my portfolio
 
 ---
 
@@ -56,38 +68,50 @@
 
 <div align="center">
 
-<img height="180" src="https://gh-stats-ruddy.vercel.app/api/langs?user=HugoRoxs&theme=dark" />
+<img height="180" src="https://gh-stats-ruddy.vercel.app/api/langs?user=hugorocha-web&theme=dark" />
 
-<img height="180" src="https://gh-stats-ruddy.vercel.app/api/rpg?user=HugoRoxs&theme=dark" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/HugoRoxs/HugoRoxs/output/github-contribution-grid-snake.svg" />
+<img height="180" src="https://gh-stats-ruddy.vercel.app/api/rpg?user=hugorocha-web&theme=dark" />
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 🛠️ Technologies
 
 <div align="center">
 
-<a href="https://github.com/HugoRoxs">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/hugorocha-web?tab=repositories">
+  <img src="https://img.shields.io/badge/🚀_My_Projects-View_Repositories-181717?style=for-the-badge" />
 </a>
 
 </div>
 
 ---
 
+## 📈 My Goal
+
+> Keep learning, keep building and become a better developer every day.
+
+---
+
 <div align="center">
 
-### 💡 "The best way to learn programming is to build."
+### 💻 Code. Learn. Build. Repeat.
+
+<br>
+
+<a href="https://github.com/hugorocha-web">
+  <img src="https://komarev.com/ghpvc/?username=hugorocha-web&style=for-the-badge&color=blue" />
+</a>
 
 </div>
