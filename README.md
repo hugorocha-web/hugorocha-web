@@ -1,6 +1,6 @@
 <div align="center">
 
-<img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamE4NGxsa2d5MzI0aTNpYWdvdjRwNnEwbGwyM2MzMHY1a3A3cnI5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CTX0ivSQbI78A/giphy.gif" />
+<img height="200" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
 <h1>Hi there! 👋</h1>
 
@@ -70,8 +70,6 @@ Building projects, learning every day and turning ideas into code.
 
 <img height="180" src="https://gh-stats-ruddy.vercel.app/api/langs?user=hugorocha-web&theme=dark" />
 
-<img height="180" src="https://gh-stats-ruddy.vercel.app/api/rpg?user=hugorocha-web&theme=dark" />
-
 </div>
 
 ---
@@ -98,6 +96,16 @@ Building projects, learning every day and turning ideas into code.
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/hugorocha-web/hugorocha-web/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
 ## 📈 My Goal
 
 > Keep learning, keep building and become a better developer every day.
@@ -111,7 +119,7 @@ Building projects, learning every day and turning ideas into code.
 <br>
 
 <a href="https://github.com/hugorocha-web">
-  <img src="https://komarev.com/ghpvc/?username=hugorocha-web&style=for-the-badge&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=hugorocha-web&style=for-the-badge" />
 </a>
 
 </div>
